@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h-dimitri
-- 👀 I’m interested in R for Finance
+- 👀 I’m interested in R for finance and econometrics
 - 🌱 Learning about the tidyverse is always lots of fun
 
 <!---
